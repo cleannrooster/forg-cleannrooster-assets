@@ -32,3 +32,7 @@ without payment or prior permission.
 
 - Attribution is not required, but is appreciated.
 - This repository will be updated over time with additional eligible assets.
+
+### Discord
+
+https://discord.gg/5nTM4qcxEM
